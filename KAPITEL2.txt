@@ -3,3 +3,8 @@ was geht denn hier ab habs doch geändert!
 =======
 hallo Welt
 >>>>>>> feature1
++
+
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+
+HIER GEÄNDERD FEUTURE3
